@@ -4,8 +4,6 @@
 
 [https://headphones-ecommerce-sanity-stripe.netlify.app/](https://headphones-ecommerce-sanity-stripe.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1cfc7a2f-980e-486c-af2e-a765ffcca157/deploy-status)](https://app.netlify.com/sites/headphones-ecommerce-sanity-stripe/deploys)
-
 ![image!](assets/images/HeadPhones%20Store.png "Banner Hero")
 
 ###### Products
